@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SandhyaKiran04/Popularity_Of_Song_Prediction/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SandhyaKiran04/Popularity_Of_Song_Prediction/blob/main/popularity-spotify.ipynb)
 
 # Popularity-Of-Song-Prediction
 
