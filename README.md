@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SandhyaKiran04/Popularity_Of_Song_Prediction/)
+
 # Popularity-Of-Song-Prediction
 
 ## About Me
