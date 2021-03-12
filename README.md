@@ -12,4 +12,4 @@ Determine how well the features explain the popularity of songs on Spotify and P
 This is useful in business setting when trying to understand which songs could become popular based on features such as tempo, danceability etc., and could also be used further to recommend songs to users based on the common features in the songs they listen to
 
 ## Outcome
-R_Squared value came to be around 0.61 and it implies that model explains 61% of the fitted data and that gives an indication that the features in the spotify data could be used to interpret the popularity of the songs.
+R_Squared value came to be around 0.68 and it implies that model explains 68% of the fitted data and that gives an indication that the features in the spotify data could be used to interpret the popularity of the songs.
